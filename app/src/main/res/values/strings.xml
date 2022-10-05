@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="selling_a_book">Selling a book</string>
+    <string name="book_name_crime_and_punishment">Book name: Crime and Punishment</string>
+    <string name="confirm_buying">Confirm buying</string>
+    <string name="sorry_i_don_t_want_this_book">Sorry, I don\'t want this book</string>
+    <string name="need_another_book">Need another book</string>
+</resources>
